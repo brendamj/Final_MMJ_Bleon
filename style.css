@@ -1,0 +1,32 @@
+body{background-color:#f4f5f7;
+ margin:1.2em;
+ font-family:helvetica;
+ padding: 5em;
+
+
+}
+h1{
+	color:#000;
+	font-size: 30px;
+	font-family:helvetica, sans-serif;
+  text-align: center; 
+}
+
+p{
+	margin-top: 20px;
+	font-size: 18px; 
+	margin: 2px;
+}
+img{
+padding: 10px; float: left;"
+caption-side: 1px;
+
+}
+
+caption{
+	font-size: 8px;
+}
+
+iframe{
+	padding: 1em;
+}
