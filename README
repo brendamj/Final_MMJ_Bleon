@@ -1,0 +1,6 @@
+echo "# Final_MMJ_Bleon" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/brendamj/Final_MMJ_Bleon.git
+git push -u origin master
